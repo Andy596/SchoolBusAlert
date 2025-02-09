@@ -3,3 +3,6 @@ SchoolBusAlert is an automated bus departure tracking system that monitors Twitt
 
 Take note that this program is currently in beta, Created in November 2024.
 This program will only detect bus 2018 (My bus) for now, future updates will allow this program to detect all other buses, and provide convenience for everyone.
+
+
+To use this program, you need to first edit some variables, like sender_email, receiver_email, email_password, login_email, username, login_password, etc.
